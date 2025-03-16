@@ -8,4 +8,5 @@ Game ends either after all the food has been consumed by the pacman character,
 or if the pacman character collides with the ghosts 3 times.
 Score is calculated based on how many food pellets pacman consumes. 10 points for one.
 
-Visual : ![alt text](PacmanGame.png)
+Visual :
+![alt text](PacmanGame.png)
